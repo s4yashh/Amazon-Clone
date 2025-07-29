@@ -1,4 +1,4 @@
-# 🛍️ Amazon Clone App & iOS Task 1 - Interactive SwiftUI App
+# 🛍️ Amazon Clone App (Interactive SwiftUI App)
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-blue.svg) ![iOS](https://img.shields.io/badge/iOS-16.0%2B-orange.svg) ![Xcode](https://img.shields.io/badge/Xcode-16.0-green.svg)
 
@@ -75,7 +75,7 @@ Since the entire functionality is within a single file, the structure is:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 ```bash
