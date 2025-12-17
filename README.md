@@ -6,7 +6,7 @@ Welcome to the **Amazon Clone App & iOS Task 1**, two SwiftUI-based applications
 
 ---
 
-## 🚀 Amazon Clone App Overview
+##  Amazon Clone App Overview
 
 This SwiftUI-based app replicates core e-commerce features such as product browsing, cart management, checkout, and order history.
 
@@ -28,7 +28,7 @@ Since the project is structured into multiple files, here is a breakdown:
 - **ProfileView.swift**: Displays user profile and order history.
 - **RecentOrdersView.swift**: Lists past orders.
 
-### 🏆 Key Features
+###  Key Features
 
 - **User Authentication**: Signup, login, and guest access.
 - **Product Browsing**: View, search, and filter products.
@@ -94,7 +94,7 @@ open iosTask1App.xcodeproj
 
 ---
 
-## 🧩 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - **SwiftUI**: Modern UI development with `VStack`, `HStack`, `List`, etc.
 - **State Management**: Using `@State` and `@AppStorage` for dynamic updates.
@@ -112,7 +112,7 @@ open iosTask1App.xcodeproj
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Contributions are welcome! To contribute:
 1. Fork the repository.
@@ -122,4 +122,4 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 
-Built using SwiftUI by Suyash.
+Built using SwiftUI
